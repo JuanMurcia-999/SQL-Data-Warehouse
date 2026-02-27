@@ -6,7 +6,7 @@ BEGIN
 	BEGIN TRY
 	SET @bacth_start_time = GETDATE()
 		PRINT '================================================';
-		PRINT 'Loading Broinze Layer';
+		PRINT 'Loading Bronze Layer';
 		PRINT '================================================';
 
 
